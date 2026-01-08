@@ -14,7 +14,7 @@ This is a meta-repository that organizes 100 projects into 4 logical phases.
 # Learning Phases
 ## Phase 1: ML Foundations (Projects 1–25)
 #### Repository: ml-foundations-lab 
-Link- [ML Foundations Lab](ml-foundations-lab/)
+Link- [ML Foundations Lab](ml_foundations_lab)
 
 Topics covered:
 - Exploratory Data Analysis (EDA)
